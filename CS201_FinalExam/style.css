@@ -1,0 +1,45 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.jumbotron {
+  background: url(images/bg1.jpg);
+}
+
+.container-wrapper
+{
+  background-color: #0000007d;
+  color: white;
+  padding: 20px;
+}
+
+.country-info
+{
+  padding-bottom: 20px;
+}
+
+.middle-background
+{
+  height: 400px;
+  padding: 50px;
+  background-image: url(images/bg2.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.card-img-top
+{
+  width: 100%
+}
+
+hr
+{
+  height: 4px;
+  background: #a9a5a5;
+}
+
+span.text
+{
+  color: #28a745;
+}
